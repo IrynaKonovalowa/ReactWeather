@@ -1,0 +1,46 @@
+body{
+padding: 20px;
+background-color: lightskyblue;
+background-image: url(Sky.jpg);
+}
+.divMeteo{
+  margin:  10px 10px 30px 550px  ;
+  width: 350px;
+  border: 2px solid gray;
+  border-radius: 7px;
+  box-shadow: 4px 4px 6px gray;
+}
+input{
+  border-radius: 7px;
+  margin: 20px 20px 20px 100px;
+}
+.city{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 42px;
+  color: goldenrod;
+  margin: 10px; 
+}
+.temp{
+  font-size: 36px;
+  color: white;
+}
+img{
+  width: 70px;
+  height: 70px;
+  float: right;
+  margin-right: 60px;
+}
+p{
+  text-align: center;
+  font-weight: bold; 
+}
+ .divHour{
+  border: 2px solid gray;
+  border-radius: 7px;
+  float: left;
+  width: 150px;
+  margin: 10px;
+  height: 200px;
+  box-shadow: 2px 2px 4px gray;
+ }
